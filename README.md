@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ako Mawlood</h1>
 <h3 align="center">A passionate front-end developer from Iraq/Kurdistan</h3>
 
-- reach me through **ako.mawlood22@gmail.com**
+- reach me through **ako.mawlood01@gmail.com**
 
 
 
