@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ako Mawlood</h1>
-<h3 align="center">A passionate front-end developer from Iraq/Kurdistan</h3>
+<h3 align="center">front-end developer from Iraq/Kurdistan</h3>
 
 - Reach me through **ako.mawlood01@gmail.com**
 
