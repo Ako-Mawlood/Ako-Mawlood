@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ako Mawlood</h1>
 <h3 align="center">Frontend developer based in Kurdistan, Iraq | React • Next.js • TypeScript</h3>
-
-- Reach me through **ako.mawlood01@gmail.com**
+**📫 Reach me at**: ako.mawlood01@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/ako-mawlood-1b8646252/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
