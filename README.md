@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ako Mawlood</h1>
-<h3 align="center">Frontend developer from Iraq/Kurdistan</h3>
+<h3 align="center">Frontend developer based in Kurdistan, Iraq | React • Next.js • TypeScript</h3>
 
 - Reach me through **ako.mawlood01@gmail.com**
 
