@@ -32,6 +32,16 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="56" height="56" alt="TypeScript"/>
   </a>
 
+  <!-- Vue.js -->
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="56" height="56" alt="Vue.js"/>
+  </a>
+
+  <!-- Vuetify -->
+  <a href="https://vuetifyjs.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://cdn.vuetifyjs.com/images/logos/vuetify-logo-light.svg" width="56" height="56" alt="Vuetify"/>
+  </a>
+
   <!-- React -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="56" height="56" alt="React"/>
