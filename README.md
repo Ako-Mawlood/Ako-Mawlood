@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ako Mawlood</h1>
 <h3 align="center">Frontend Developer based in Kurdistan, Iraq</h3>
-<p align="center">React • Next.js • TypeScript • Swift • SwiftUI</p>
 
 <p align="center">
   📫 Reach me at: <a href="mailto:ako.mawlood01@gmail.com">ako.mawlood01@gmail.com</a><br />
@@ -35,6 +34,11 @@
   <!-- Vue.js -->
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="56" height="56" alt="Vue.js"/>
+  </a>
+
+  <!-- Nuxt.js -->
+  <a href="https://nuxt.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" width="56" height="56" alt="Nuxt.js"/>
   </a>
 
   <!-- Vuetify -->
@@ -76,20 +80,9 @@
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="56" height="56" alt="Postman"/>
   </a>
-  
 
   <!-- C++ -->
   <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="56" height="56" alt="C++"/>
-  </a>
-
-  <!-- Swift -->
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="56" height="56" alt="Swift"/>
-  </a>
-
-  <!-- SwiftUI -->
-  <a href="https://developer.apple.com/xcode/swiftui/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="56" height="56" alt="SwiftUI"/>
   </a>
 </p>
